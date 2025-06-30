@@ -26,9 +26,9 @@ pypbc文件夹：双线性对的密码学库
 - build 文件夹：含编译后的扩展模块或其他构建输出
 - INSTALL 文件：包含安装pypbc库的详细说明和步骤
 - install.sh 文件：shell脚本，用于在Unix-like系统上安装pypbc库
-- LICENSE 文件：这个文件包含pypbc库的许可证信息
-- pypbc.c 文件：这是pypbc库的C语言源代码文件。
-- pypbc.h 文件：这是pypbc库的C语言头文件。
+- LICENSE 文件：包含pypbc库的许可证信息
+- pypbc.c 文件：pypbc库的C语言源代码文件
+- pypbc.h 文件：pypbc库的C语言头文件
 - README.md 文件：包含库的介绍、安装指南、使用方法和示例代码
 - setup.py 文件：通过运行python setup.py install，可以安装pypbc库及其依赖项
 
