@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Broadcast-Functional-Encryption-Based-on-SM9
-基于SM9的广播函数加密
-=======
 # 2025年全国大学生信息安全竞赛  作品报告
 
 ## 作品名称
@@ -42,4 +38,3 @@ pypbc文件夹：双线性对的密码学库
 1503961718@qq.com
 
 mky219@vip.qq.com
->>>>>>> master
